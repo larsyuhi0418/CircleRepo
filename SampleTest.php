@@ -9,6 +9,7 @@ class SampleTest extends PHPUnit_Framework_TestCase
     }
 
     /**
+     * add comment
      * @test
      */
     public function aaa()
